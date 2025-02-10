@@ -1,0 +1,18 @@
+airline reservation system
+    admin application
+        - flight management (code)
+              - create flight (flight_create.html)
+              - change ticket price(flight_edit_price.html)
+              - delete flight
+              - display all flight (flight_list,.html)
+
+              flights : number, airway_name, source, destination, capacity, price
+    customer application
+        - ticket booking (travel plan) 
+what is bootstrap?
+       UI framework
+         -ready made styles
+       build fast, responsive sites with bootstrap
+
+ what is HTML5?
+       markup language to mark the content of the website pages
