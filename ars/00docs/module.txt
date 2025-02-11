@@ -16,3 +16,15 @@ what is bootstrap?
 
  what is HTML5?
        markup language to mark the content of the website pages
+
+where react app usedd?
+       server side --node.js
+
+what is react ?
+         frontend app developement framework 
+
+-full stack application
+       [client][business][data]
+       ........................
+        [server]
+
