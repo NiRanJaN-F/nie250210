@@ -24,7 +24,35 @@ what is react ?
          frontend app developement framework 
 
 -full stack application
-       [client][business][data]
+       [client][application/business][data]
        ........................
         [server]
+  react             golang                 mongo/cassandra
+  angular           express                oracle
+  vue               django                 sql server
+                    web app c#             mysql
+                    java spring            sqlite 
 
+
+
+to create react application named client
+ $ npx create-react-app client
+ or 
+ $npm create vite@latest client -- -- 
+
+ to create react application under the current folder 
+
+
+
+
+ index .html
+    bootstrap css + js
+ main.jsx
+//index.css
+
+
+app.jsx
+  route(naviigation) bt pagelist,                    pagecreate,           pageedit
+                        /flights/flight_list         /flight/create        flight_edit
+
+                        <pageheader/>
